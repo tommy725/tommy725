@@ -27,14 +27,16 @@
 
 <span><img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4053D6&logo=MySQL&logoColor=FFFFFF&label="/>
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Oracle" src="https://img.shields.io/static/v1?style=for-the-badge&message=OracleDB&color=CC2927&logo=Oracle&logoColor=FFFFFF&label="/></span>
 
 ### Servers
 
 <span><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="RESTAPI" src="https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=005571&logo=RESTAPI&logoColor=FFFFFF&label="/></span>
+<img alt="RESTAPI" src="https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=005571&logo=RESTAPI&logoColor=FFFFFF&label="/>
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</span>
 
 ### Frameworks  
 
