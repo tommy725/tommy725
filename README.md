@@ -71,10 +71,10 @@
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis" alt="MarcosOpolis" /></a> </p>
 
-<a href="https://github.com/MarcosOpolis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&hide=[%22contribs%22,%22prs%22]&title_color=fff&icon_color=79ff97&text_color=9f9f9f"/>
+<a href="https://github.com/MarcosOpolis">  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"/>
 </a>
-
+https://github-readme-stats.vercel.app/api?username=MarcosOpolis&hide=[%22contribs%22,%22prs%22]&title_color=fff&icon_color=79ff97&text_color=9f9f9f
 <a href="https://github.com/MarcosOpolis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOpolis&hide=ipynb,html&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&bg_color=151515" />
 </a>
