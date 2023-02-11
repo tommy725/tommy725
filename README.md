@@ -77,19 +77,19 @@
 <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></span>
 
 
-<div align="center" style="padding-top: 30px">
+<div align="center" style="padding-top: 30px; display: block">
   <a href="https://github.com/MarcosOpolis">  
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=dark_lover"/>
   </a>
 </div>
 
-<div align="center" style="padding-top: 30px">
+<div align="center" style="padding-top: 30px; display: block">
   <a href="https://github.com/MarcosOpolis">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
   </a>
 </div>
 
-<div align="center" style="padding-top: 30px">
+<div align="center" style="padding-top: 30px; display: block">
   <a href="https://github.com/MarcosOpolis">
     <img align="center" src="https://streak-stats.demolab.com/?user=MarcosOpolis&theme=dark" alt="MarcosOpolis" />
   </a>
