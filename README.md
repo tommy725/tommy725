@@ -71,11 +71,11 @@
 
   
 <a href="https://github.com/MarcosOpolis">  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=dark_lover"/>
 </a>
 
 <a href="https://github.com/MarcosOpolis">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
 </a>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="MarcosOpolis" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=MarcosOpolis&theme=dark" alt="MarcosOpolis" /></p>
