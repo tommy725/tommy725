@@ -83,7 +83,7 @@
   </a>
 </div>
 
-<div align="center" style="padidng-top: 30px">
+<div align="center" style="padding-top: 30px">
   <a href="https://github.com/MarcosOpolis">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
   </a>
