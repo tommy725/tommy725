@@ -69,7 +69,10 @@
 <img alt="Github Actions" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=" />
 <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></span>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis" alt="MarcosOpolis" /></a> </p>
+  
+<a href="https://github.com/MarcosOpolis">  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"/>
+</a>
 
 <a href="https://github.com/MarcosOpolis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOpolis&hide=ipynb,html&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&bg_color=151515" />
