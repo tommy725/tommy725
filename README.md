@@ -78,4 +78,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOpolis&" alt="MarcosOpolis" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="MarcosOpolis" /></p>
