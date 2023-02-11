@@ -3,6 +3,13 @@
 <h3 align="center">with AI Technology</h3>
 -->
 
+<h1 align="center">Hi 👋, I'm @MarcosOpolis</h1>
+<h3 align="center">A passionate Senior Mobile developer</h3>
+
+- 👋 Hi, I’m @MarcosOpolis
+- 👀 I’m Senior Mobile Developer
+- 🌱 I have rich experience in Android, iOS, Flutter, React Native
+
 
 ### Languages  
 
@@ -69,13 +76,21 @@
 <img alt="Github Actions" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=" />
 <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></span>
 
-  
-<a href="https://github.com/MarcosOpolis">  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=dark_lover"/>
-</a>
 
-<a href="https://github.com/MarcosOpolis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/MarcosOpolis">  
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=dark_lover"/>
+  </a>
+</div>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=MarcosOpolis&theme=dark" alt="MarcosOpolis" /></p>
+<div align="center">
+  <a href="https://github.com/MarcosOpolis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MarcosOpolis">
+    <img align="center" src="https://streak-stats.demolab.com/?user=MarcosOpolis&theme=dark" alt="MarcosOpolis" />
+  </a>
+</div>
