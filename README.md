@@ -4,10 +4,10 @@
 -->
 
 <h1 align="center">Hi 👋, I'm @MarcosOpolis</h1>
-<h3 align="center">A passionate Senior Mobile developer</h3>
+<h3 align="center">A passionate Senior Mobile & ChatGPT developer</h3>
 
 - 👋 Hi, I’m @MarcosOpolis
-- 👀 I’m Senior Mobile Developer
+- 👀 I’m Senior Mobile & ChatGPT Developer
 - 🌱 I have rich experience in Android, iOS, Flutter, React Native
 
 
@@ -19,6 +19,7 @@
 <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Javascript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </span>
 <!--
