@@ -89,6 +89,11 @@
   <!--  </a>-->
 </div>
 
+<div style="padding-top: 10px" align="center">
+  <img style="padding-top: 20px" src="https://github-profile-trophy.vercel.app/?username=luckyWithU&theme=onedark" />
+</div>
+
+
 <div align="center" style="margin-top: 30px; display: block">
   <a href="https://github.com/MarcosOpolis">
     <img align="center" src="https://streak-stats.demolab.com/?user=MarcosOpolis&theme=dark" alt="MarcosOpolis" />
