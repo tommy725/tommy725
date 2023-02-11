@@ -84,9 +84,9 @@
 </div>
 
 <div align="center" style="margin-top: 30px; display: block">
-  <a href="https://github.com/MarcosOpolis">
+<!--  <a href="https://github.com/MarcosOpolis">-->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
-  </a>
+  <!--  </a>-->
 </div>
 
 <div align="center" style="margin-top: 30px; display: block">
