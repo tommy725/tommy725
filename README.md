@@ -98,6 +98,7 @@
 <div align="center" style="margin-top: 30px; display: block">
   <br>
   <a href="https://github.com/MarcosOpolis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=dark" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosOpolis&show_icons=true&theme=radical" />
   </a>
 </div>
