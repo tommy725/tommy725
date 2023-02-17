@@ -93,13 +93,13 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 <br/>  
 
-### Flutter
+## Flutter
 
 <div style="width: 100%; overflow: hidden; overflow-x: scroll; display: flex;">
 
 <table style="max-width: max-content">
 <thead><tr><td colspan="3">
-  <h6>Food-Sweet App</h6>
+  <h5>Food-Sweet App</h5>
 </td></tr><head>
 <tbody><tr><td valign="top" width="250px">
 <div align="center">
