@@ -95,7 +95,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 ## Flutter
 
-<div style="width: 100%; overflow: hidden; overflow-x: scroll; display: flex;">
+<div style="width: 100% !important; overflow: hidden !important; overflow-x: scroll !important; display: flex !important;">
   
 <table style="max-width: max-content"><thead><tr><td colspan="3"><h5>Food-Sweet App</h5></td></tr><head>
 <tbody><tr><td valign="top" width="250px">
@@ -112,7 +112,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td></tr></tbody></table>
   
-<table style="max-width: max-content"><thead><tr><td colspan="3"><h5>Food-Sweet App</h5></td></tr><head>
+<table style="max-width: max-content: important"><thead><tr><td colspan="3"><h5>Travel-Bucket-List</h5></td></tr><head>
 <tbody><tr><td valign="top" width="250px">
 <div align="center">
 <img src="https://github.com/MarcosOpolis/TravelBucketList/blob/master/screenshots/1.jpg" align="center" height="" width="200px" />
