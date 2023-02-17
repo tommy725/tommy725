@@ -93,7 +93,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 <br/>  
 ### Flutter
-<div style="width: 100%; overflow: auto; overflow-y: scroll; display: flex;">
+<div style="width: 100%; overflow: auto; overflow-x: scroll; display: flex;">
 sweet-flutter
 <table><tr><td valign="top" width="350px">
 <div align="center">
