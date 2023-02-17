@@ -99,7 +99,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 <table style="max-width: max-content">
 <thead><tr><td colspan="3">
-  <h1>Food-Sweet App</h1>
+  <h6>Food-Sweet App</h6>
 </td></tr><head>
 <tbody><tr><td valign="top" width="250px">
 <div align="center">
