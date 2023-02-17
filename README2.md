@@ -101,7 +101,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 <thead><tr><td colspan="3">
   <h1>Food-Sweet App</h1>
 </td></tr><head>
-<tr><td valign="top" width="250px">
+<tbody><tr><td valign="top" width="250px">
 <div align="center">
   
 <img src="https://camo.githubusercontent.com/db728c3b98ca8257e9091c05a4f669b80ac541c194bd613243585576862ddaf1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f31392f35632f34373139356333363561376661346165386138366631666539373464326530342e706e67" align="center" height="" width="200px" />
@@ -119,7 +119,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 <img src="https://camo.githubusercontent.com/12821f2babf67d263a44ab85e47e23ef0e08087af3cd31cad851de846faf01cb/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35622f33332f31342f35623333313439373637323565386530643834313234653536373038376539312e706e67" align="center" height="" width="200px" />
 </div>  
 
-</td></tr></table>
+</td></tr></tbody></table>
 
 </div>
 
