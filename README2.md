@@ -93,6 +93,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 <br/>  
 
+<div style="width: 100%; overflow: hidden, overflow-x: scroll">
 ### Food-Sweet App  
 <table><tr><td valign="top" width="250px">
 <div align="center">
@@ -113,6 +114,8 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
   
 </td></tr></table>
+  
+</div>
 <br />
 
 ----
