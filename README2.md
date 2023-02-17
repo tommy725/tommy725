@@ -14,6 +14,7 @@
 <div align="center">
   <a href="https://github.com/MarcosOpolis"  style="margin: 130px; display: block">  
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOpolis" />
+    <img style="padding-top: 20px" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=onedark" />
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=dark_lover"/>
   </a>
 </div>
