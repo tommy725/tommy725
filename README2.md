@@ -97,7 +97,11 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 <div style="width: 100%; overflow: hidden; overflow-x: scroll; display: flex;">
 
-<table style="max-width: max-content"><tr><td valign="top" width="250px">
+<table style="max-width: max-content">
+<thead><tr><td colspan="3">
+  <h1>Food-Sweet App</h1>
+</td></tr><head>
+<tr><td valign="top" width="250px">
 <div align="center">
   
 <img src="https://camo.githubusercontent.com/db728c3b98ca8257e9091c05a4f669b80ac541c194bd613243585576862ddaf1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f31392f35632f34373139356333363561376661346165386138366631666539373464326530342e706e67" align="center" height="" width="200px" />
