@@ -92,9 +92,11 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </td></tr></table>  
 
 <br/>  
+
 ### Flutter
+
 <div style="width: 100%; overflow: auto; overflow-x: scroll; display: flex;">
-sweet-flutter
+
 <table><tr><td valign="top" width="350px">
 <div align="center">
   
