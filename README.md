@@ -17,7 +17,7 @@
 </a>
 -->
 ### Glad to see you here!  
-As a senior mobile developer with over seven years of experience in Android and iOS development, four years of experience in React Native development, and three years of experience in Flutter, 
+As a senior mobile developer with over 7+ years of experience in Android and iOS development, 4+ years of experience in React Native development, and 3+ years of experience in Flutter, 
 
 I am highly proficient in creating mobile applications with a wide range of frameworks and plugins.<br>I have a comprehensive understanding of the most modern frameworks, such as Android Studio, Xcode, React Native, Flutter, and Firebase, as well as plugins like Retrofit, Dagger, and RxJava. 
 
