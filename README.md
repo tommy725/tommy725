@@ -235,7 +235,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </table>
   
 
-## Flutter
+## React Native
 
 <table>
 <tr><td colspan="3"><h5>Card Betting App</h5>
@@ -268,7 +268,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td></tr></table>
   
-<table><tr><td colspan="3"><h5>Swiggy App</h5>
+<table><tr><td colspan="3"><h5>Shopping</h5>
 </td></tr><tr><td valign="top" width="33.33%">
 <div align="center">
 <img src="https://github.com/MarcosOpolis/react-native-shop/blob/master/Screenshots/1.png" align="center" height="" width="80%" />
