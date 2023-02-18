@@ -170,7 +170,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
   </td></tr></table>
   
 <table>
-<tr><td colspan="3"><h5>Shpify</h5>
+<tr><td colspan="3"><h5>Shopify</h5>
 </td></tr><tr><td valign="top" width="33.33%">
 <div align="center">
 <img src="https://camo.githubusercontent.com/1e4dfcfc7450acb91ebe11292d67c4ea09190ddb1dc94102836b0fdc3c8cb2c3/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f363033666664393036383865616537663438353866616232383636363563663465336138616130622f30656631342f696d616765732f64656d6f2f73686f706966792f73686f706966792d312e706e67" align="center" height="" width="80%" />
@@ -203,7 +203,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td></tr></table>
   
-<tr><td colspan="3"><h5>Food-Sweet App</h5>
+<table><tr><td colspan="3"><h5>Food-Sweet App</h5>
 </td></tr><tr><td valign="top" width="33.33%">
 <div align="center">
 <img src="https://camo.githubusercontent.com/db728c3b98ca8257e9091c05a4f669b80ac541c194bd613243585576862ddaf1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f31392f35632f34373139356333363561376661346165386138366631666539373464326530342e706e67" align="center" height="" width="" />
@@ -218,7 +218,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td></tr></table>
   
-<tr><td colspan="3"><h5>Swiggy App</h5>
+<table><tr><td colspan="3"><h5>Swiggy App</h5>
 </td></tr><tr><td valign="top" width="33.33%">
 <div align="center">
 <img src="https://github.com/MarcosOpolis/Swiggy/blob/master/screenshots/swiggy1.jpg" align="center" height="" width="80%" />
