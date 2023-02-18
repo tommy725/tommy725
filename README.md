@@ -234,3 +234,53 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </td></tr>
 </table>
   
+
+## Flutter
+
+<table>
+<tr><td colspan="3"><h5>Card Betting App</h5>
+</td></tr><tr><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://github.com/MarcosOpolis/react-native-card-betting/blob/master/Screenshots/2.png" align="center" height="" width="80%" />
+</div>  
+</td><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://github.com/MarcosOpolis/react-native-card-betting/blob/master/Screenshots/5.png" align="center" height="" width="80%" />
+</div>  
+</td><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://github.com/MarcosOpolis/react-native-card-betting/blob/master/Screenshots/6.png" align="center" height="" width="80%" />
+</div>  
+</td></tr></table>
+  
+<table><tr><td colspan="3"><h5>Movies App</h5>
+</td></tr><tr><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/14052885/41520889-3ae482ac-7313-11e8-8995-7983088cc70d.png" align="center" height="" width="" />
+</div>  
+</td><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/14052885/41520891-3b4dcc62-7313-11e8-878f-e9c3319c7560.png" align="center" height="" width="" />
+</div>  
+</td><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/14052885/41520894-3bec8762-7313-11e8-86eb-0b215dc26797.png" align="center" height="" width="" />
+</div>  
+</td></tr></table>
+  
+<table><tr><td colspan="3"><h5>Swiggy App</h5>
+</td></tr><tr><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://github.com/MarcosOpolis/react-native-shop/blob/master/Screenshots/1.png" align="center" height="" width="80%" />
+</div>  
+</td><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://github.com/MarcosOpolis/react-native-shop/blob/master/Screenshots/5.png" align="center" height="" width="80%" />
+</div>  
+</td><td valign="top" width="33.33%">
+<div align="center">
+<img src="https://github.com/MarcosOpolis/react-native-shop/blob/master/Screenshots/9.png" align="center" height="" width="80%" />
+</div>  
+</td></tr>
+</table>
+  
