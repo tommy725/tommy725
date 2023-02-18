@@ -185,7 +185,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td></tr>
   
-## React Native
+## Flutter
 
 <table>
 <tr><td colspan="3"><h5>Travel Bucket List App</h5>
