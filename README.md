@@ -185,25 +185,6 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td></tr>
   
-## Flutter
-
-<table>
-<tr><td colspan="3"><h5>Travel Bucket List App</h5>
-</td></tr><tr><td valign="top" width="33.33%">
-<div align="center">
-<img src="https://github.com/MarcosOpolis/TravelBucketList/blob/master/screenshots/1.jpg" align="center" height="" width="80%" />
-</div>  
-</td><td valign="top" width="33.33%">
-<div align="center">
-<img src="https://github.com/MarcosOpolis/TravelBucketList/blob/master/screenshots/4.jpg" align="center" height="" width="80%" />
-</div>  
-</td><td valign="top" width="33.33%">
-<div align="center">
-<img src="https://github.com/MarcosOpolis/TravelBucketList/blob/master/screenshots/10.jpg" align="center" height="" width="80%" />
-</div>  
-</td></tr>
-  
-  
 ## React Native
 
 <table>
