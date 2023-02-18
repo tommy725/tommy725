@@ -175,7 +175,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </div>  
 </td><td valign="top" width="33.33%">
 <div align="center">
-<img src="https://github.com/MarcosOpolis/Swiggy/blob/master/screenshots/swiggy2.jpg" align="center" height="" width="80%" />
+<img src="https://github.com/MarcosOpolis/Swiggy/blob/master/screenshots/swiggy2.jpg" align="center" height="" width="" />
 </div>  
 </td><td valign="top" width="33.33%">
 <div align="center">
