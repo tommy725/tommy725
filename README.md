@@ -17,12 +17,11 @@
 </a>
 -->
 ### Glad to see you here!  
-As a senior mobile developer with over 7+ years of experience in Android and iOS development, 4+ years of experience in React Native development, and 3+ years of experience in Flutter, 
+Marcos Opolis is a Senior Software Engineer with 10+ years of experience developing high-performance, reliable, and secure software solutions. He has a proven track record of delivering successful projects on time and within budget. He is an expert in a variety of programming languages, including Java, Python, and C++. He is also highly skilled in web development technologies such as HTML, CSS, JavaScript, and JQuery.
 
-I am highly proficient in creating mobile applications with a wide range of frameworks and plugins.<br>I have a comprehensive understanding of the most modern frameworks, such as Android Studio, Xcode, React Native, Flutter, and Firebase, as well as plugins like Retrofit, Dagger, and RxJava. 
+Marcos Opolis is a highly organized and detail-oriented professional who is able to quickly identify and solve complex software problems. He is also adept at working with both internal and external stakeholders to ensure that all project requirements are met. He is a team player who is able to collaborate effectively with developers, designers, and other professionals to ensure the success of a project.
 
-I am also experienced in utilizing the latest technologies such as Kotlin, Swift, and Dart to ensure the highest quality of products. With my expertise, I strive to create innovative solutions that bring value to my clients.  
-  
+Marcos is passionate about software engineering and is always looking for new ways to improve the user experience. He has a strong commitment to excellence and is dedicated to producing high-quality software products.  
 
 <br/>  
 
@@ -85,6 +84,7 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 
 <br/>  
 
+<!--
 ## Android
 
 <table>
@@ -284,3 +284,4 @@ I am also experienced in utilizing the latest technologies such as Kotlin, Swift
 </td></tr>
 </table>
   
+-->
