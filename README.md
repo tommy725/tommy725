@@ -43,7 +43,6 @@
 <img alt="Javascript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-\n  
   <br>
 </span>
 
@@ -94,6 +93,7 @@
 -->
 
 <div align="center">
+  <br>
   <a href="https://github.com/MarcosOpolis"  style="margin: 130px; display: block">  
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=MarcosOpolis&theme=dark_lover"/>
   </a>
