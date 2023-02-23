@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hendrik Smit</h1>
 <h3 align="center">A passionate Full Stack Web & Mobile developer</h3>
 
-## Github Profile Trophy
+<h3> Github Profile Trophy </h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HendrikSmit725&column=7&theme=onedark"/>
