@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 > I am a proficient `full stack developer` with 7 years of hands-on experience in `MERN stack`. <br /> My major skills are react-redux ,  typescript, next.js, material-ui, tailwind css for frontend.I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend. <br /> In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.
-<br />
+
 > My Secondary skill is `mobile app` development.<br />I am a Highly motivated `Native & Hybrid` mobile app developer with over 5 plus years of experience.<br /><!--While working as a Freelancer and in MOOD MEDIA company, I built `30 mobils apps` in the Hybrid mode using Java and Kotlin and `30 mobils apps` in the Hybrid mode using react-native and flutter and deployed them to app stores.-->
 
 # :hammer_and_wrench: Languages and Tools :
