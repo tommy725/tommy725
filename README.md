@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hendrik Smit</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Full Stack Web & Mobile developer</h3>
 
 > I am a proficient `full stack developer` with 7 years of hands-on experience in `MERN stack`. <br /> My major skills are react-redux ,  typescript, next.js, material-ui, tailwind css for frontend.I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend. <br /> In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.
 
