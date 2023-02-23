@@ -3,8 +3,8 @@
 <h3 align="center">with AI Technology</h3>
 -->
 
-<h1 align="center">Hi 👋, This is @Marcos Opolis</h1>
-<h3 align="center">A passionate Full-Stack Mobile & ChatGPT developer</h3>
+<h1 align="center">Hi 👋, This is @Hendrik Smit</h1>
+<h3 align="center">A passionate Full-Stack Web & Mobile developer</h3>
 
 - 👋 Hi, I’m @MarcosOpolis
 - 👀 I’m Full-Stack Mobile & ChatGPT Developer
