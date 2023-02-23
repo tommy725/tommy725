@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hendrik Smit</h1>
 <h3 align="center">A passionate Full Stack Web & Mobile developer</h3>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Senior Full Stack Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+## Github Profile Trophy
 
-<p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing.jpg" />
-</p>
-
-<h3>🏆 Github Profile Trophy</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HendrikSmit725&column=7&theme=onedark"/>
 </p>
