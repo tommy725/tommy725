@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hendrik Smit</h1>
 <h3 align="center">A passionate Full-Stack Mobile developer</h3>
 
-- 👋 Hi, I’m @Hendrik Smit
-- 🌱 My major skills: Android, iOS, Flutter, React-Native, Ionic 
-- 👀 My Programming languages: Kotlin, Java, Swift, Flutter, Dart, Html, Css, Javascript
-- 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js, SQL, NoSQL
-<!--
-- 💬 I'm familiar with Html, Css, JavaScript, TypeScript, Java, Kotlin, Swift, Objective-C, Dart, Pyton, PHP, Solidity, .
--->
+- 👋 Deployed 30+ apps to Google Store and App Store.
+- 🌱 My major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
+- 👀 My Programming languages: `Kotlin`, `Java`, `Swift`, `Flutter`, `Dart`, `Html`, `Css`, `Javascript`
+- 🔭 Backend : `Ruby on Rails`, `Node.js`, `CI`, `Laravel`, `Django`, `Express`, `Loopback`, `Nest.js`
+
 &nbsp;&nbsp;
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HendrikSmit725&column=7&theme=onedark"/>
