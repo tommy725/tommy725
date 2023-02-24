@@ -3,7 +3,7 @@
 
 - 👋 Deployed 30+ apps to Google Store and App Store.
 - 🌱 My major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
-- 👀 My Programming languages: `Kotlin`, `Java`, `Swift`, `Flutter`, `Dart`, `Html`, `Css`, `Javascript`
+- 👀 My Programming languages: `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `Html`, `Css`, `Javascript`
 - 🔭 Backend : `Ruby on Rails`, `Node.js`, `CI`, `Laravel`, `Django`, `Express`, `Loopback`, `Nest.js`
 
 &nbsp;&nbsp;
