@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hendrik Smit</h1>
+<h1 align="center">Hi 👋, I'm Viktor Yurchenko</h1>
 <h3 align="center">A passionate Full-Stack Mobile developer</h3>
 
 - 👋 Deployed 30+ apps to Google Store and App Store.
@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HendrikSmit725&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ViktorYurchenko&column=7&theme=onedark"/>
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikSmit725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
