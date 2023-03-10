@@ -9,9 +9,9 @@
 -->
 <h3 align="center">A passionate Full-Stack Web developer</h3>
 
-- 🌱 Front-end: HTML, HTML5, CSS, CSS3, SCSS, SASS, Javascript, ES5/ES6, Angular 6+, AngularJS, React.js/Next.js/Redux, Vue.js/Nuxt.js
-- 👀 Back-end: Java/Spring Boot, Node.js/Nest.js, Python/Django, .NET/ASP.NET
-- 🔭 Full-Stack : PHP core, CodeIgniter, Laravel, Symfony, Ruby on Rails, MEAN Stack, MERN Stack, MEVN Stack
+- 🌱 Front-end: `HTML`, `HTML5`, `CSS`, `CSS3`, `SCSS`, `SASS`, `Javascript`, `ES5/ES6`, `Angular 6+`, `AngularJS`, `React.js`/`Next.js`/`Redux`, `Vue.js`/`Nuxt.js`
+- 👀 Back-end: `Java`/`Spring Boot`, `Node.js`/`Nest.js`, `Python`/`Django`, `.NET`/`ASP.NET`
+- 🔭 Full-Stack : `PHP core`, `CodeIgniter`, `Laravel`, `Symfony`, `Ruby on Rails`, `MEAN Stack`, `MERN Stack`, `MEVN Stack`
 
 
 &nbsp;&nbsp;
