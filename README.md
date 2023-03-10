@@ -29,3 +29,12 @@
     &nbsp;&nbsp;
   </div>
 </div>
+
+<!--
+<h3 align="center">A passionate Full-Stack Mobile developer</h3>
+
+- 👋 Deployed 40+ apps to Google Store and App Store.
+- 🌱 Major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
+- 👀 Programming languages: `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `Html`, `Css`, `Javascript`, `Typescript`
+- 🔭 Backend : `CI`, `Laravel`, `Ruby on Rails`, `Node.js`,  `Django`, `Express`, `Loopback`, `Nest.js`
+-->
