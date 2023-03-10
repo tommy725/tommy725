@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Viktor Yurchenko</h1>
+<h1 align="center">Hi 👋, I'm Joost Mulder</h1>
 <h3 align="center">A passionate Full-Stack Mobile developer</h3>
 
-- 👋 Deployed 30+ apps to Google Store and App Store.
+- 👋 Deployed 40+ apps to Google Store and App Store.
 - 🌱 Major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
 - 👀 Programming languages: `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `Html`, `Css`, `Javascript`, `Typescript`
-- 🔭 Backend : `Ruby on Rails`, `Node.js`, `CI`, `Laravel`, `Django`, `Express`, `Loopback`, `Nest.js`
+- 🔭 Backend : `CI`, `Laravel`, `Ruby on Rails`, `Node.js`,  `Django`, `Express`, `Loopback`, `Nest.js`
 
 &nbsp;&nbsp;
 <p align="center">
