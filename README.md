@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joost Mulder</h1>
 
-<h3 align="center">A passionate Full-Stack Web developer</h3>
+<h3 align="center">A passionate Full-Stack Mobile developer</h3>
 
-- 🌱 Front-end: `HTML`, `HTML5`, `CSS`, `CSS3`, `SCSS`, `SASS`, `Javascript`, `ES5/ES6`, `Angular 6+`, `AngularJS`, `React.js`/`Next.js`/`Redux`, `Vue.js`/`Nuxt.js`
-- 👀 Back-end: `Java`/`Spring Boot`, `Node.js`/`Nest.js`, `Python`/`Django`, `.NET`/`ASP.NET`
-- 🔭 Full-Stack : `PHP core`, `CodeIgniter`, `Laravel`, `Symfony`, `Ruby on Rails`, `MEAN Stack`, `MERN Stack`, `MEVN Stack`
-
+- 👋 Deployed 40+ apps to Google Store and App Store.
+- 🌱 Major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
+- 👀 Programming languages: `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `Html`, `Css`, `Javascript`, `Typescript`
+- 🔭 Backend : `CI`, `Laravel`, `Ruby on Rails`, `Node.js`,  `Django`, `Express`, `Loopback`, `Nest.js`
 
 &nbsp;&nbsp;
 <p align="center">
@@ -31,10 +31,11 @@
 </div>
 
 <!--
-<h3 align="center">A passionate Full-Stack Mobile developer</h3>
 
-- 👋 Deployed 40+ apps to Google Store and App Store.
-- 🌱 Major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
-- 👀 Programming languages: `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `Html`, `Css`, `Javascript`, `Typescript`
-- 🔭 Backend : `CI`, `Laravel`, `Ruby on Rails`, `Node.js`,  `Django`, `Express`, `Loopback`, `Nest.js`
+
+<h3 align="center">A passionate Full-Stack Web developer</h3>
+
+- 🌱 Front-end: `HTML`, `HTML5`, `CSS`, `CSS3`, `SCSS`, `SASS`, `Javascript`, `ES5/ES6`, `Angular 6+`, `AngularJS`, `React.js`/`Next.js`/`Redux`, `Vue.js`/`Nuxt.js`
+- 👀 Back-end: `Java`/`Spring Boot`, `Node.js`/`Nest.js`, `Python`/`Django`, `.NET`/`ASP.NET`
+- 🔭 Full-Stack : `PHP core`, `CodeIgniter`, `Laravel`, `Symfony`, `Ruby on Rails`, `MEAN Stack`, `MERN Stack`, `MEVN Stack`
 -->
