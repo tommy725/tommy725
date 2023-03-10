@@ -23,7 +23,7 @@
   <div align="center">
     <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.d366604a8bd42b92" title="live:.cid.d366604a8bd42b92"/>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/xingxing333" title="https://t.me/supercryptodev"/>
+    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/xingxing333" title="https://t.me/xingxing333"/>
     &nbsp;&nbsp; 
     <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="xingxing#8577" title="xingxing#8577"/>
     &nbsp;&nbsp;
