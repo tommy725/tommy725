@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joost Mulder</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 
 <h3 align="center">A passionate Full-Stack Mobile developer</h3>
 
@@ -9,10 +9,10 @@
 
 &nbsp;&nbsp;
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joostmulder&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gr725&column=7&theme=onedark"/>
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joostmulder&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gr725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 <br />
