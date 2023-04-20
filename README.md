@@ -12,7 +12,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=robertturk725&column=7&theme=onedark"/>
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gr725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robertturk725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 <br />
