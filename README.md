@@ -21,11 +21,15 @@
 
 <div align="center">
   <div align="center">
+    <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="afteryou725@gmail.com" title="afteryou725@gmail.com"/>
+    &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.d366604a8bd42b92" title="live:.cid.d366604a8bd42b92"/>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/xingxing333" title="https://t.me/xingxing333"/>
+    <!--
+    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/RT725" title="https://t.me/RT725"/>
     &nbsp;&nbsp; 
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="xingxing#8577" title="xingxing#8577"/>
+    -->
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="RobertTurk#9304" title="RobertTurk#9304"/>
     &nbsp;&nbsp;
   </div>
 </div>
