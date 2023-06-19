@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Robert Turk</h1>
+<h1 align="center">Hi 👋, I'm Tommy Routio</h1>
 
-<h3 align="center">A passionate Full-Stack Mobile developer</h3>
+<h3 align="center">Senior Full-Stack Web & Mobile developer with Blockchain technologies</h3>
 
-- 👋 Deployed 40+ apps to Google Store and App Store.
-- 🌱 Major skills: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic` 
-- 👀 Programming languages: `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `Html`, `Css`, `Javascript`, `Typescript`
-- 🔭 Backend : `CI`, `Laravel`, `Ruby on Rails`, `Node.js`,  `Django`, `Express`, `Loopback`, `Nest.js`
+- 🌱 Web Frontend: `HTML5 / CSS3`, `React.js / Next.js / Redux`, `Angular`, `Vue.js / Nuxt.js`, `WordPress / Shopify / Magento`
+- 🌱 Mobile Frontend: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic`
+- 🌱 Backend: `Node.js / Express / Nest.js`, `Python / Django / Flask`, `PHP / CI / Laravel / Ruby on Rails`,  `GoLang / Gin / Gorilla / Fiber`, `PostgreSQL / MongoDB / MySQL`, `MS SQL / AWS DynamoDB`, `AWS Lambda / Microsoft Azure`
+- 🔭 Blockchain: `Xumm wallet integration`, `NFT minting`, `Token trading`, `Smart contract`, `Marketplace development`, `Swap services`
+- 👀 Programming languages: `Html`, `Css`, `Javascript`, `Typescript`, `Python`, `Golang`, `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `SQL`, `Solidity`, `Rust`
 
 &nbsp;&nbsp;
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robertturk725&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tommy725&column=7&theme=onedark"/>
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robertturk725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tommy725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 <br />
@@ -29,17 +30,7 @@
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/RT725" title="https://t.me/RT725"/>
     &nbsp;&nbsp; 
     -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="RobertTurk#9304" title="RobertTurk#9304"/>
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="TommyRoutio#9304" title="TommyRoutio#9304"/>
     &nbsp;&nbsp;
   </div>
 </div>
-
-<!--
-
-
-<h3 align="center">A passionate Full-Stack Web developer</h3>
-
-- 🌱 Front-end: `HTML`, `HTML5`, `CSS`, `CSS3`, `SCSS`, `SASS`, `Javascript`, `ES5/ES6`, `Angular 6+`, `AngularJS`, `React.js`/`Next.js`/`Redux`, `Vue.js`/`Nuxt.js`
-- 👀 Back-end: `Java`/`Spring Boot`, `Node.js`/`Nest.js`, `Python`/`Django`, `.NET`/`ASP.NET`
-- 🔭 Full-Stack : `PHP core`, `CodeIgniter`, `Laravel`, `Symfony`, `Ruby on Rails`, `MEAN Stack`, `MERN Stack`, `MEVN Stack`
--->
