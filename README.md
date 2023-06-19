@@ -5,8 +5,8 @@
 - 🌱 Web Frontend: `HTML5 / CSS3`, `React.js / Next.js / Redux`, `Angular`, `Vue.js / Nuxt.js`, `WordPress / Shopify / Magento`
 - 🌱 Mobile Frontend: `Android`, `iOS`, `Flutter`, `React-Native`, `Ionic`
 - 🌱 Backend: `Node.js / Express / Nest.js`, `Python / Django / Flask`, `PHP / CI / Laravel / Ruby on Rails`,  `GoLang / Gin / Gorilla / Fiber`, `PostgreSQL / MongoDB / MySQL`, `MS SQL / AWS DynamoDB`, `AWS Lambda / Microsoft Azure`
-- 🔭 Blockchain: `Xumm wallet integration`, `NFT minting`, `Token trading`, `Smart contract`, `Marketplace development`, `Swap services`
-- 👀 Programming languages: `Html`, `Css`, `Javascript`, `Typescript`, `Python`, `Golang`, `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `SQL`, `Solidity`, `Rust`
+- 🌱 Blockchain: `Xumm wallet integration`, `NFT minting`, `Token trading`, `Smart contract`, `Marketplace development`, `Swap services`
+- 🔭 Programming languages: `Html`, `Css`, `Javascript`, `Typescript`, `Python`, `Golang`, `Kotlin`, `Java`, `Swift`, `Objective-C`, `Dart`, `SQL`, `Solidity`, `Rust`
 
 &nbsp;&nbsp;
 <p align="center">
