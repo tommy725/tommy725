@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/RT725" title="https://t.me/RT725"/>
     &nbsp;&nbsp; 
     -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="TommyRoutio#9304" title="TommyRoutio#9304"/>
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="TommyRautio#9304" title="TommyRautio#9304"/>
     &nbsp;&nbsp;
   </div>
 </div>
