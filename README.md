@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tommy Routio</h1>
+<h1 align="center">Hi 👋, I'm Tommy Rautio</h1>
 
 <h3 align="center">Senior Full-Stack Web & Mobile developer with Blockchain technologies</h3>
 
