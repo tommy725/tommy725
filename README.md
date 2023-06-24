@@ -31,15 +31,6 @@
 <a href="https://github.com/tommy725?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=tommy725&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Tommy's trophy stats"/></a>
 </p>
 
-<p align="center">
-<a href="https://wakatime.com/@TommyRautio"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/tommy725?tab=followers"><img src="https://img.shields.io/github/followers/tommy725?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
-
-<p align="center">
-<a href="https://gist.github.com/tommy725"><img src="https://profile-counter.glitch.me/{tommy725}/count.svg" alt="tommy725 :: Visitor's Count" /></a>
-</p>
-
 
 <br />
 
