@@ -20,19 +20,19 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
+    <a href="https://wakatime.com/@TommyRautio">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=tommy725&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommy725&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Tommy's wakatime stats"/></a>
+<a href="https://wakatime.com/@TommyRautio"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommy725&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@@TommyRautio's wakatime stats"/></a>
 <a href="https://github.com/tommy725?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=tommy725&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Tommy's trophy stats"/></a>
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://wakatime.com/@TommyRautio"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/tommy725?tab=followers"><img src="https://img.shields.io/github/followers/tommy725?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
