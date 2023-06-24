@@ -27,9 +27,8 @@
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-    
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alexd725&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%">
-<a href="https://wakatime.com/@TommyRautio"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommy725&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@@TommyRautio's wakatime stats"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexd725&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%"></a>
+
 <a href="https://github.com/tommy725?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=tommy725&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Tommy's trophy stats"/></a>
 </p>
 
