@@ -38,15 +38,21 @@
 
 <div align="center">
   <div align="center">
-    <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="afteryou725@gmail.com" title="afteryou725@gmail.com"/>
+    <a href="mailto:afteryou725@gmail.com">
+        <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="afteryou725@gmail.com" title="afteryou725@gmail.com"/>
+    </a>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.d366604a8bd42b92" title="live:.cid.d366604a8bd42b92"/>
+    <a href="live:.cid.d366604a8bd42b92">
+        <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.d366604a8bd42b92" title="live:.cid.d366604a8bd42b92"/>
+    </a>
     &nbsp;&nbsp;
     <!--
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/RT725" title="https://t.me/RT725"/>
     &nbsp;&nbsp; 
     -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="tommykallio" title="tommykallio"/>
+    <a href="https://discord.com/tommykallio">
+        <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="tommykallio" title="tommykallio"/>
+    </a>
     &nbsp;&nbsp;
   </div>
 </div>
