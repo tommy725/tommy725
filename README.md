@@ -42,7 +42,7 @@
         <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="afteryou725@gmail.com" title="afteryou725@gmail.com"/>
     </a>
     &nbsp;&nbsp;
-    <a href="live:.cid.d366604a8bd42b92">
+    <a href="https://web.skype.com/live:.cid.d366604a8bd42b92">
         <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.d366604a8bd42b92" title="live:.cid.d366604a8bd42b92"/>
     </a>
     &nbsp;&nbsp;
